@@ -1,0 +1,35 @@
+{
+	"pages": [
+	    {
+            "path" : "pages/carList/carList",
+            "style" : {
+				"navigationBarTitleText": "车辆列表"
+			}
+        },
+		{
+		    "path" : "pages/carDetail/carDetail",
+		    "style" : {
+				"navigationBarTitleText": "车辆详情"
+			}
+		},
+		{
+		    "path" : "pages/carDetailList/carDetailList",
+		    "style" : {
+				"navigationBarTitleText": "车辆详情"
+			}
+		},
+		{
+		    "path" : "pages/longTimeCarInfo/longTimeCarInfo",
+		    "style" : {
+				"navigationBarTitleText": "车辆详情"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle":"custom",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "信车智联",
+		"navigationBarBackgroundColor": "#108ee9",
+		"backgroundColor": "#F8F8F8"
+	}
+}
